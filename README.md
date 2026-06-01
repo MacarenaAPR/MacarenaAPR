@@ -8,7 +8,6 @@ Actualmente construyendo:
 • Menly
 • Génesis Psicología
 • Vitacare
-• Simtexx
 
 Tecnologías:
 React • JavaScript • Python • Django • PostgreSQL • Git • Figma
